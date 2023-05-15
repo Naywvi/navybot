@@ -1,0 +1,25 @@
+hlast : dernière commande
+hid : recherche par id
+huser : recherche par utilisateurs
+hdel : delete la db
+h : vue total de l'historique
+
+speak : parler au bot
+reset : reset la conversation
+speaka : demander s'il parle de quelque chose
+ch : vue de l'historique 
+
+(Quand un user join -> message envoyer à un channel)
+(on disco -> save la totalité des conversations dans db)
+
+Fonctionnalitée ajoutée :
+
+!joke (snd une joke random)
+
+--> Bot musique
+!join
+!disconnect
+!start
+!pause
+!resume
+!stop
